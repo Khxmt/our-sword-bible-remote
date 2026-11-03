@@ -2,7 +2,7 @@
 
 Android remote-control app for **Our Sword**. Pair your phone by scanning a QR code, then control the app over your local Wi-Fi network.
 
-[![Download APK](https://img.shields.io/badge/Download-APK%20v1.4.0-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Khxmt/our-sword-bible-remote/releases/download/v1.4.0/OurSwordRemote-1.4.0.apk)
+[![Download APK](https://img.shields.io/badge/Download-APK%20v1.4.0-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Khxmt/our-sword-bible-remote/releases/download/1.4.0/OurSwordRemote-1.4.0-release.apk)
 
 ---
 
