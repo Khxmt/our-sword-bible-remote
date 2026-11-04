@@ -2,7 +2,7 @@
 
 Android remote-control app for **Our Sword**. Pair your phone by scanning a QR code, then control the app over your local Wi-Fi network.
 
-[![Download APK](https://img.shields.io/badge/Download-APK%20v1.4.0-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Khxmt/our-sword-bible-remote/releases/download/1.4.0/OurSwordRemote-1.4.0-release.apk)
+[![Download APK](https://img.shields.io/badge/Download-APK%20v1.5.0-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Khxmt/our-sword-bible-remote/releases/download/v1.5.0/OurSwordRemote-1.5.0.apk)
 
 ---
 
@@ -10,7 +10,7 @@ Android remote-control app for **Our Sword**. Pair your phone by scanning a QR c
 
 | Version | File | Size | Min. Android |
 |---------|------|------|--------------|
-| 1.4.0 (build 3) | [OurSwordRemote-1.4.0.apk](https://github.com/Khxmt/our-sword-bible-remote/releases/download/1.4.0/OurSwordRemote-1.4.0-release.apk) | 1.8 MB | Android 8.0 (API 26) |
+| 1.5.0 (build 6) | [OurSwordRemote-1.5.0.apk](https://github.com/Khxmt/our-sword-bible-remote/releases/tag/v1.5.0) | 2.0 MB | Android 8.0 (API 26) |
 
 All versions are on the [Releases page](https://github.com/Khxmt/our-sword-bible-remote/releases).
 
@@ -19,11 +19,11 @@ All versions are on the [Releases page](https://github.com/Khxmt/our-sword-bible
 SHA-256:
 
 ```
-fe37c00c685ab8e0758d63589c5221ef98a2e8e5df183b49dbed2f4b2d7fff12
+1934a6715792f648384d118412f3507271668f6263932a410f7e56ab5549c547
 ```
 
-- **Windows (PowerShell):** `Get-FileHash OurSwordRemote-1.4.0.apk -Algorithm SHA256`
-- **macOS / Linux:** `shasum -a 256 OurSwordRemote-1.4.0.apk`
+- **Windows (PowerShell):** `Get-FileHash OurSwordRemote-1.5.0.apk -Algorithm SHA256`
+- **macOS / Linux:** `shasum -a 256 OurSwordRemote-1.5.0.apk`
 
 ---
 
@@ -76,5 +76,5 @@ Download the newer APK from the [Releases page](https://github.com/Khxmt/our-swo
 ## App info
 
 - **Package name:** `org.oursword.remote`
-- **Version:** 1.4.0 (version code 3)
+- **Version:** 1.5.0 (version code 6)
 - **Target SDK:** 37
