@@ -10,7 +10,7 @@ Android remote-control app for **Our Sword**. Pair your phone by scanning a QR c
 
 | Version | File | Size | Min. Android |
 |---------|------|------|--------------|
-| 1.5.0 (build 6) | [OurSwordRemote-1.5.0.apk](https://github.com/Khxmt/our-sword-bible-remote/releases/download/1.5.0/) | 2.0 MB | Android 8.0 (API 26) |
+| 1.5.0 (build 6) | [OurSwordRemote-1.5.0.apk](https://github.com/Khxmt/our-sword-bible-remote/releases/download/1.5.0/OurSwordRemote-1.5.0.apk) | 2.0 MB | Android 8.0 (API 26) |
 
 All versions are on the [Releases page](https://github.com/Khxmt/our-sword-bible-remote/releases).
 
